@@ -3,3 +3,4 @@ Rufus https://github.com/pbatard/rufus/releases/download/v3.13/rufus-3.13.exe
 Windows https://github.com/pbatard/rufus/releases/download/v3.13/rufus-3.13.exe
 Progi https://anonfiles.com/58U4qcx9pf/8888_rar
 Winrar - https://anonfiles.com/h1k86813p1/winrar-x64-590_exe
+TG-Soft - https://anonfiles.com/3276621ep0/Telegram-Soft_rar
